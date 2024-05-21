@@ -463,17 +463,13 @@ button {
 }
 
 #my_slider a.carousel-control-prev {
-    left: 30px;
-    top: 180px;
-    right: 0px;
+    color: black;
+    background-color: grey;
 }
 
 #my_slider a.carousel-control-next {
-    right: 0px;
-    top: 120px;
-    left: 30px;
-    color: #ffffff;
-    background-color: #fe0000;
+    color: black;
+    background-color: grey;
 }
 
 #my_slider .carousel-control-next,
